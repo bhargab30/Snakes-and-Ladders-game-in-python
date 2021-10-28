@@ -8,4 +8,4 @@ Requirements:
  
 To Run the game:
 
-	You will need to store all of the images and the my_game.py file in the same folder. Then open my_game.py and run it , and now you are ready to play the game.
+You will need to store all of the images and the my_game.py file in the same folder. Then open my_game.py and run it , and now you are ready to play the game.
